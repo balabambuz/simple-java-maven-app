@@ -60,7 +60,7 @@
                   <version>[11,)</version>
                 </requireJavaVersion>
               </rules>
-            </configuration>re
+            </configuration>
           </execution>
         </executions>
       </plugin>
